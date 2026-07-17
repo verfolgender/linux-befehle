@@ -1,6 +1,6 @@
-# linux-befehle
+# Linux Befehle
 Linux Befehle
-### Examples
+### Auflistung
 
 Hier der Update befehl.
 ```
