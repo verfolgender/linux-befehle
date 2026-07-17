@@ -10,7 +10,7 @@ Installiert neuere Versionen aller aktuell installierten Softwarepakete, für di
 ```
 Sudo apt upgrade -y
 ```
-Hier Update, Upgrade, Autoremove und Autoclean. Mein Favorit.
+Hier Update, Upgrade, Autoremove und Autoclean. <span style="color:#00FF00">Mein Favorit.</span>
 ```
 Sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt autoclean -y
 ```
